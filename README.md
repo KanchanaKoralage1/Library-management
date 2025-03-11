@@ -35,19 +35,54 @@ Database: MongoDB <br>
     "nodemon": "^3.1.9" <br>
   } <br>
 
-# 🚀 Installation Guide
+# 🚀 Installation Guide <br>
 
 Prerequisites <br>
 Before you start, make sure you have the following installed: <br>
 
-Node.js <br>
-MongoDB <br>
-Git <br>
+  Node.js <br>
+  MongoDB <br>
+  Git <br>
 
 1️⃣ Clone the Repository <br>
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo  <br>
+  https://github.com/KanchanaKoralage1/Library-management.git <br>
+
+2️⃣ Navigate to the project directory <br>
+
+  cd Library-management <br>
+
+3️⃣  Install backend dependencies <br>
+
+cd backend <br>
+npm install <br>
+
+4️⃣  Install frontend dependencies <br>
+
+cd frontend <br>
+npm install <br>
+
+5️⃣  Create a .env file in the backend directory and add environment variables <br>
+
+MONGO_URI=your_mongodb_uri  <br>
+JWT_SECRET=your_jwt_secret <br>
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name <br>
+CLOUDINARY_API_KEY=your_cloudinary_api_key <br>
+CLOUDINARY_API_SECRET=your_cloudinary_api_secret <br>
+
+6️⃣  Run the backend server <br>
+
+cd backend <br>
+npm run dev <br>
+
+7️⃣  Run the frontend (Vite + React) <br>
+
+cd frontend <br>
+npm run dev <br>
+
+# 👤 Author <br>
+This project is developed and maintained by [Kanchana Koralage](https://github.com/KanchanaKoralage1) 
+
 
 
   
