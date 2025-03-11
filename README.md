@@ -10,3 +10,27 @@ Book Listing: View all recently added books.<br>
 Search Functionality: Find books by name.<br>
 Image Upload: Upload book images using Cloudinary.<br>
 
+# 🎥 Demo Video
+
+https://github.com/user-attachments/assets/b73da69e-391e-436b-97d3-330b036b5752
+<br>
+# 🛠️ Tech Stack 
+
+Backend: Node.js, Express.js, MongoDB <br>
+Frontend: React <br>
+Database: MongoDB <br>
+
+# 📦 Dependencies
+
+"dependencies": {
+    "bcryptjs": "^3.0.1",
+    "cloudinary": "^2.5.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1",
+    "nodemon": "^3.1.9"
+  }
+
