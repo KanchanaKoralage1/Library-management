@@ -23,15 +23,32 @@ Database: MongoDB <br>
 
 # 📦 Dependencies
 
-"dependencies": {
-    "bcryptjs": "^3.0.1",
-    "cloudinary": "^2.5.1",
-    "cookie-parser": "^1.4.7",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.10.1",
-    "nodemon": "^3.1.9"
-  }
+"dependencies": { <br>
+    "bcryptjs": "^3.0.1", <br>
+    "cloudinary": "^2.5.1", <br>
+    "cookie-parser": "^1.4.7", <br>
+    "cors": "^2.8.5", <br>
+    "dotenv": "^16.4.7", <br>
+    "express": "^4.21.2", <br>
+    "jsonwebtoken": "^9.0.2", <br>
+    "mongoose": "^8.10.1", <br>
+    "nodemon": "^3.1.9" <br>
+  } <br>
+
+# 🚀 Installation Guide
+
+Prerequisites <br>
+Before you start, make sure you have the following installed: <br>
+
+Node.js <br>
+MongoDB <br>
+Git <br>
+
+1️⃣ Clone the Repository <br>
+
+git clone https://github.com/your-username/your-repo.git
+cd your-repo  <br>
+
+
+  
 
